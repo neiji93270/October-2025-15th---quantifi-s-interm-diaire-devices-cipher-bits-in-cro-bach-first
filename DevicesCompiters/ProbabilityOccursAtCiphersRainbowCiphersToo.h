@@ -9,3 +9,12 @@
 
 
 class hypercipherontablesOne
+
+
+
+//inverting ciohers orders in text files would help the log funcgion on high energy devices if 
+//intermediate patterns on chips messages use less datas than quantified datas.
+//remember we used several key log files with containers.
+//so the log funcgion could be produced with pro p groups.
+
+class invertpropgroupsonrainbowattackandabstractmetadatas
